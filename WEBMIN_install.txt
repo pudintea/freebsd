@@ -22,5 +22,8 @@ Buka lewat browser
 Ketikan IP dan Port Server.
 Depault Port adalah 10000.
 
+Perintah Shutdown FreeBSD
+$> shutdown -p now
+
 
 ============= PUDIN.MY.ID ==========================
