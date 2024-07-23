@@ -1,0 +1,25 @@
+
+$> pkg update -f
+
+Cek apakah webmin sudah tersedia
+$> pkg search webmin
+
+Setelah keluar hasilnya, silahkan install, contoh
+$> pkg install webmin-2.013
+
+Setelah selesai, silahkan aktifkan webminnya, silahkan ketik
+$> sysrc webmin_enable="yes"
+
+$> pkg install bash
+$> bash /usr/local/lib/webmin/setup.sh
+
+Jawab sesuai kebutuhan
+
+Aktifkan
+$> service webmin start
+
+Buka lewat browser
+Ketikan IP dan Port Server.
+
+
+============= PUDIN.MY.ID ==========================
