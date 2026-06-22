@@ -28,7 +28,15 @@ pkg upgrade
 
 ## Install Editor Nano
 ```
+pkg search nano
+```
+```
 pkg install nano
+```
+
+## Shutdown
+```
+shutdown -p now
 ```
 
 ## Pudin Saepudin
