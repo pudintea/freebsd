@@ -1,5 +1,7 @@
 # Setelah selesai Install FreeBSD
-Repository
+* [Link Dokumentasi](https://docs.freebsd.org/en/books/handbook/book/#ports)
+
+## Repository
 ```
 mkdir -p /usr/local/etc/pkg/repos
 ```
@@ -24,7 +26,7 @@ pkg update -f
 pkg upgrade
 ```
 
-Install Editor Nano
+## Install Editor Nano
 ```
 pkg install nano
 ```
